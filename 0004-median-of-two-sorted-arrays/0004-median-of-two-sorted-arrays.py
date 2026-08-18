@@ -7,7 +7,7 @@ class Solution(object):
             A.append(j)
         A.sort()
         p = len(A)
-        if (p % 2 == 0):
-            return ((float)(A[p/2]+ A[(p/2)-1])/2)
+        if (len(A) % 2 == 0):
+            return ((float)(A[len(A)/2]+ A[(len(A)/2)-1])/2)
         else:
-            return (A[p/2])       
+            return (A[len(A)/2])       
