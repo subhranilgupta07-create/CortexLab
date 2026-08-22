@@ -8,5 +8,4 @@ class Solution(object):
             c = int(b)
         if c < -2**31 or c > 2**31 - 1:
             return 0
-
         return c
