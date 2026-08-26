@@ -44,4 +44,9 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0058-length-of-last-word) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
