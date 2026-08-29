@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0088-merge-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
