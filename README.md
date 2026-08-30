@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0136-single-number) |
+| [1572-matrix-diagonal-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0136-single-number) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
