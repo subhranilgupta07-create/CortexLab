@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0118-pascals-triangle) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0069-sqrtx) |
 ## Binary Search
@@ -95,6 +97,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0048-rotate-image) |
 | [1572-matrix-diagonal-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
 |  |
