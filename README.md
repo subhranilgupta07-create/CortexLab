@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0048-rotate-image](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0027-remove-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -116,4 +119,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3903-smallest-stable-index-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
