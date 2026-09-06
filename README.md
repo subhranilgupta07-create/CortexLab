@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0136-single-number) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Matrix
 |  |
 | ------- |
