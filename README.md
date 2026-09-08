@@ -36,6 +36,7 @@
 | [0066-plus-one](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
+| [3870-count-commas-in-range](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
 | ------- |
