@@ -56,6 +56,7 @@
 | [0027-remove-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 ## Newton's Method
 |  |
@@ -68,6 +69,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0125-valid-palindrome) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
