@@ -145,4 +145,12 @@
 |  |
 | ------- |
 | [2347-best-poker-hand](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2347-best-poker-hand) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
