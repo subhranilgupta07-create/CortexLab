@@ -63,6 +63,7 @@
 | [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0541-reverse-string-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0876-middle-of-the-linked-list) |
 ## Newton's Method
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
