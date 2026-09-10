@@ -30,6 +30,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 | [2347-best-poker-hand](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2347-best-poker-hand) |
+| [3945-digit-frequency-score](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3870-count-commas-in-range) |
+| [3945-digit-frequency-score](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
