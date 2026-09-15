@@ -23,6 +23,7 @@
 | [2347-best-poker-hand](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2347-best-poker-hand) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3903-smallest-stable-index-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,4 +182,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
