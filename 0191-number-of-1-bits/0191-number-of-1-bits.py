@@ -1,8 +1,10 @@
 class Solution(object):
     def hammingWeight(self, n):
+        x = int(bin(n)[2:])
         c = 0
-        for i in range(32):
-            a = 1 << i
-            if n & a:
+        while x > 0:
+            j = x % 10
+            if j == 1:
                 c += 1
-        return c
+            x //= 10
+        return c        
