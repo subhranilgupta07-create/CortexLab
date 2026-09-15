@@ -74,6 +74,7 @@
 | [0541-reverse-string-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0917-reverse-only-letters) |
+| [3794-reverse-string-prefix](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3794-reverse-string-prefix) |
 ## Newton's Method
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0541-reverse-string-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0917-reverse-only-letters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3794-reverse-string-prefix](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
