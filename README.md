@@ -42,6 +42,7 @@
 | [0066-plus-one](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0231-power-of-two) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -129,6 +130,7 @@
 | [0029-divide-two-integers](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Matrix
 |  |
@@ -179,6 +181,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
