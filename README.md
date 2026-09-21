@@ -32,6 +32,7 @@
 | [0001-two-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0242-valid-anagram) |
 | [2347-best-poker-hand](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2347-best-poker-hand) |
 | [3945-digit-frequency-score](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -94,6 +95,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0917-reverse-only-letters) |
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0242-valid-anagram) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Bit Manipulation
 |  |
