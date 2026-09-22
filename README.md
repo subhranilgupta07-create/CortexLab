@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0118-pascals-triangle) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
@@ -163,6 +165,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Prefix Sum
