@@ -19,6 +19,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0704-binary-search) |
 | [1572-matrix-diagonal-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1572-matrix-diagonal-sum) |
@@ -85,6 +86,7 @@
 | [0125-valid-palindrome](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0541-reverse-string-ii) |
