@@ -17,6 +17,7 @@
 | [0118-pascals-triangle](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0704-binary-search) |
 | [1572-matrix-diagonal-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1572-matrix-diagonal-sum) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
@@ -134,6 +137,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -176,6 +180,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
 | [2347-best-poker-hand](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2347-best-poker-hand) |
 ## Linked List
 |  |
@@ -206,4 +211,8 @@
 | [1920-build-array-from-permutation](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3925-concatenate-array-with-reverse](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3925-concatenate-array-with-reverse) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
