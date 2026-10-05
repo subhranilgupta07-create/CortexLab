@@ -40,6 +40,7 @@
 | [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2347-best-poker-hand](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2347-best-poker-hand) |
 | [3945-digit-frequency-score](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -114,6 +115,7 @@
 | [0917-reverse-only-letters](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0917-reverse-only-letters) |
 | [1844-replace-all-digits-with-characters](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1844-replace-all-digits-with-characters) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3110-score-of-a-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3794-reverse-string-prefix) |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2347-best-poker-hand](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2347-best-poker-hand) |
 ## Linked List
 |  |
