@@ -113,6 +113,7 @@
 | [0541-reverse-string-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0917-reverse-only-letters) |
 | [1844-replace-all-digits-with-characters](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1844-replace-all-digits-with-characters) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3110-score-of-a-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3794-reverse-string-prefix) |
