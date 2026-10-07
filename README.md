@@ -40,6 +40,7 @@
 | [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
+| [1079-letter-tile-possibilities](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1079-letter-tile-possibilities) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2347-best-poker-hand](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2347-best-poker-hand) |
 | [3945-digit-frequency-score](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3945-digit-frequency-score) |
@@ -115,6 +116,7 @@
 | [0344-reverse-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0917-reverse-only-letters) |
+| [1079-letter-tile-possibilities](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1079-letter-tile-possibilities) |
 | [1844-replace-all-digits-with-characters](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1844-replace-all-digits-with-characters) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -192,10 +194,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1079-letter-tile-possibilities](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1079-letter-tile-possibilities) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
+| [1079-letter-tile-possibilities](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1079-letter-tile-possibilities) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2347-best-poker-hand](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2347-best-poker-hand) |
 ## Linked List
