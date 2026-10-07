@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -175,6 +176,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -212,6 +214,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0206-reverse-linked-list) |
