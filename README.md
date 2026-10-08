@@ -124,6 +124,7 @@
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3110-score-of-a-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
@@ -237,6 +238,7 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3498-reverse-degree-of-a-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3925-concatenate-array-with-reverse) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
