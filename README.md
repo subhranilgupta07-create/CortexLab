@@ -117,6 +117,7 @@
 | [0344-reverse-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0917-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1021-remove-outermost-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1079-letter-tile-possibilities) |
 | [1844-replace-all-digits-with-characters](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1844-replace-all-digits-with-characters) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -230,6 +231,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -248,4 +250,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
