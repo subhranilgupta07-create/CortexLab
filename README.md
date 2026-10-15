@@ -29,6 +29,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2347-best-poker-hand](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2347-best-poker-hand) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3903-smallest-stable-index-i) |
@@ -266,4 +267,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
