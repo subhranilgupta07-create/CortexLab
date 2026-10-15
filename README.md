@@ -29,6 +29,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2347-best-poker-hand](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2347-best-poker-hand) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3925-concatenate-array-with-reverse) |
@@ -44,6 +45,7 @@
 | [1079-letter-tile-possibilities](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1079-letter-tile-possibilities) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2347-best-poker-hand](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2347-best-poker-hand) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3945-digit-frequency-score](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -256,4 +258,12 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1021-remove-outermost-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
