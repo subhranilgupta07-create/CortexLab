@@ -64,6 +64,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3870-count-commas-in-range) |
 | [3945-digit-frequency-score](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3945-digit-frequency-score) |
@@ -185,6 +186,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
