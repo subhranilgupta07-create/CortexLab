@@ -26,6 +26,7 @@
 | [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0704-binary-search) |
 | [1572-matrix-diagonal-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1920-build-array-from-permutation) |
@@ -176,6 +177,7 @@
 | [0136-single-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0231-power-of-two) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Matrix
@@ -199,6 +201,7 @@
 | [0053-maximum-subarray](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -216,6 +219,7 @@
 | [0046-permutations](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0052-n-queens-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1079-letter-tile-possibilities](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1079-letter-tile-possibilities) |
 ## Counting
 |  |
@@ -296,4 +300,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0037-sudoku-solver) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
