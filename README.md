@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0051-n-queens) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0242-valid-anagram) |
@@ -178,6 +180,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0048-rotate-image) |
 | [1572-matrix-diagonal-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
@@ -207,6 +210,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0052-n-queens-ii) |
@@ -283,6 +287,11 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
