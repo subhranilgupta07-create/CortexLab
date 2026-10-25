@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0075-sort-colors) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0051-n-queens) |
 | [1079-letter-tile-possibilities](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1079-letter-tile-possibilities) |
 ## Counting
 |  |
@@ -277,4 +279,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2778-sum-of-squares-of-special-elements) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
