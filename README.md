@@ -209,6 +209,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0052-n-queens-ii) |
 | [1079-letter-tile-possibilities](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1079-letter-tile-possibilities) |
 ## Counting
 |  |
@@ -283,4 +284,5 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
