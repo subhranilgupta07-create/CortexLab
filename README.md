@@ -37,6 +37,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3903-smallest-stable-index-i](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -54,6 +55,7 @@
 | [2347-best-poker-hand](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2347-best-poker-hand) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3945-digit-frequency-score](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -170,6 +172,7 @@
 | [0242-valid-anagram](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
