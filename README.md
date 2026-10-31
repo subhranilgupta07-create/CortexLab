@@ -30,6 +30,7 @@
 | [0704-binary-search](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0704-binary-search) |
 | [1572-matrix-diagonal-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1920-build-array-from-permutation) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2347-best-poker-hand](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2347-best-poker-hand) |
@@ -83,6 +84,7 @@
 | [0069-sqrtx](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Bit Manipulation
