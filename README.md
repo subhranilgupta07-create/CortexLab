@@ -39,6 +39,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -75,6 +76,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3870-count-commas-in-range) |
+| [3886-sum-of-sortable-integers](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3886-sum-of-sortable-integers) |
 | [3945-digit-frequency-score](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
@@ -176,6 +178,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -296,6 +299,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3886-sum-of-sortable-integers) |
 ## Algorithm X
 |  |
 | ------- |
