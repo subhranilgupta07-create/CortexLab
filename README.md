@@ -27,6 +27,7 @@
 | [0283-move-zeroes](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0704-binary-search) |
 | [1572-matrix-diagonal-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1572-matrix-diagonal-sum) |
@@ -72,6 +73,7 @@
 | [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -177,6 +179,7 @@
 | [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
