@@ -75,6 +75,7 @@
 | [0231-power-of-two](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0836-rectangle-overlap](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhranilgupta07-create/CortexLab/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -326,4 +327,8 @@
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
