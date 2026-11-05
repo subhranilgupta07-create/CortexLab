@@ -76,6 +76,7 @@
 | [0069-sqrtx](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0836-rectangle-overlap) |
