@@ -24,6 +24,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -57,6 +58,7 @@
 | [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
 | [1079-letter-tile-possibilities](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1079-letter-tile-possibilities) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -77,6 +79,7 @@
 | [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0836-rectangle-overlap) |
@@ -96,6 +99,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -188,6 +192,7 @@
 | [0088-merge-sorted-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -203,6 +208,7 @@
 | [0136-single-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0268-missing-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
