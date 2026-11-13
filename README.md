@@ -15,6 +15,7 @@
 | [0039-combination-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0066-plus-one) |
@@ -58,6 +59,7 @@
 | [0001-two-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0242-valid-anagram) |
@@ -152,6 +154,7 @@
 | [0014-longest-common-prefix](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0242-valid-anagram) |
@@ -195,6 +198,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
