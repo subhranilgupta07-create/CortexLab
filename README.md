@@ -32,6 +32,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0704-binary-search) |
+| [1267-count-servers-that-communicate](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1572-matrix-diagonal-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1920-build-array-from-permutation) |
@@ -222,6 +223,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0048-rotate-image) |
+| [1267-count-servers-that-communicate](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
 |  |
@@ -266,6 +268,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0169-majority-element) |
 | [1079-letter-tile-possibilities](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1079-letter-tile-possibilities) |
+| [1267-count-servers-that-communicate](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1267-count-servers-that-communicate) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2347-best-poker-hand](https://github.com/subhranilgupta07-create/CortexLab/tree/master/2347-best-poker-hand) |
 ## Linked List
@@ -355,4 +358,16 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/subhranilgupta07-create/CortexLab/tree/master/0836-rectangle-overlap) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/subhranilgupta07-create/CortexLab/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
